@@ -1,6 +1,4 @@
-{
-
-    "gameTiles": [
+export const gameTiles = [
         {
             "features" : "bird",
             "plants" : "iris",
@@ -96,6 +94,4 @@
             "plants" : "sakura",
             "src" : "/images/sakura-sun.jpg"
         }
-    ]
-
-}
+    ];

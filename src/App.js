@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import GameField from './components/GameField.js';
 
 function App() {
   return (
     <div className="App">
-      <div>Привет медвед!</div>
+      <GameField />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
