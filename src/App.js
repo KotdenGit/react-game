@@ -5,9 +5,11 @@ import GameField from './components/GameField.js';
 function App() {
   return (
     <div className="App">
-      <GameField />
+
       <header className="App-header">
-        
+
+      <GameField />
+ 
       </header>
     </div>
   );
